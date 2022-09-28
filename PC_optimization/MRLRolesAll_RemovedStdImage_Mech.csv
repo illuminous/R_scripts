@@ -1,0 +1,52 @@
+stuff,Chief Mechanical Officer,Mechanical Manager,System Electrician,General Foreman,Mechanical Foreman,Materials Manager,Write-Up Carman
+1 - Standard Desktop,1,1,0,1,1,1,1
+2 - Performance Desktop,0,0,0,0,0,0,0
+3 - Standard Laptop,0,0,1,0,0,0,0
+4 - Performance Laptop,0,0,0,0,0,0,0
+5 - Mobility Laptop 1,0,0,0,0,0,0,0
+6 - Mobility Laptop 2 - MS Surface ,0,0,0,0,0,0,0
+Standard Docking station,0,0,0,0,0,0,0
+Standard Mouse & KB - Wired,0,0,0,0,0,0,1
+Standard Single Monitor,1,1,0,1,1,1,1
+Standard Dual Monitor,0,0,0,0,0,0,0
+Standard Office Printer,1,1,0,1,1,1,0
+ShoreTel Desk phone,1,1,1,1,1,1,0
+Verizon Cell phone (iPhone),1,1,1,1,1,1,0
+Shoretel extension,1,1,1,1,1,1,1
+TRIP System (Crew Calling),0,0,0,0,0,0,0
+EXpressyards,0,0,0,0,0,0,0
+RailInc ,0,0,0,0,0,0,0
+Powertrack,1,1,1,1,1,1,0
+Careers Web Application,1,1,0,1,1,1,0
+MRL PUB,1,1,1,1,1,1,0
+MRL ENG,0,0,0,0,0,0,0
+MRL B&B,0,0,0,0,0,0,0
+MRL RE,0,0,0,0,0,0,0
+MRL SCAD,0,0,0,0,0,0,0
+AKRENIK,0,0,0,0,0,0,0
+MRL SIG,0,0,0,0,0,0,0
+Car Hire - R Drive,0,0,0,0,0,0,0
+MRL REV,0,0,0,0,0,0,0
+MRL ACCT,0,0,0,0,0,0,0
+Oracle E-1,1,1,0,1,0,0,0
+SAP BI,0,0,0,0,0,0,0
+SAP Widgets,0,0,0,0,0,0,0
+Front Door Security Software,0,0,0,0,0,0,0
+TMDS - View client,0,0,0,0,0,0,0
+TMDS - Mobile client,0,0,0,0,0,0,0
+TSS/EXtra,1,1,0,1,1,1,0
+Revenue (AS400),0,0,0,0,0,0,0
+ShowCase,0,0,0,0,0,0,0
+Hyperterm,0,0,0,0,0,0,0
+M-Files,0,0,0,0,0,0,0
+Car Hire,0,0,0,0,0,0,0
+Local/UP Billing,0,0,0,0,0,0,0
+Demurrage,0,0,0,0,0,0,0
+Train Performance,0,0,0,0,0,0,0
+MaxAccel,0,0,0,0,0,0,0
+Discovery Manager,0,0,0,0,0,0,0
+Microsoft Office - Project,0,0,0,0,0,0,0
+Microsoft Office - Visio,0,0,0,0,0,0,0
+Microsoft - Intune,0,0,0,0,0,0,0
+SAP - Live Office,0,0,0,0,0,0,0
+PDF Writer (Bluebeam Revue),0,0,0,0,0,0,0
